@@ -48,8 +48,8 @@ You have multiple team members' calendars and want to find a meeting slot:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/ics-calendar-slot-finder.git
-cd ics-calendar-slot-finder
+git clone https://github.com/EliValLoc/appointment_finder.git
+cd appointment_finder
 ```
 
 Install dependencies:
