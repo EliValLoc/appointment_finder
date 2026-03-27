@@ -326,6 +326,7 @@ def main():
         "Lade bis zu 10 .ics-Dateien hoch. Die App findet alle gemeinsamen freien Zeitfenster "
         "innerhalb der Arbeitszeit von 08:00 bis 17:00."
     )
+    st.markdown("Die `.ics` kannst du über die Outlook-Applikation via **Kalender -> Datei -> Kalender speichern** herunterladen (Windows).")
 
     with st.sidebar:
         st.header("Einstellungen")
