@@ -117,12 +117,6 @@ Then open the app in your browser and:
 
 ---
 
-## 📄 License
-
-MIT License
-
----
-
 ## 🙌 Acknowledgements
 
 Built with the help of OpenAI's GPT models.
